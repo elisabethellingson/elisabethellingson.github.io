@@ -5,10 +5,3 @@ body{
   -o-background-size: cover;
   -webkit-background-size: cover;
 }
-navitem{
-  display: inline;
-  margin-left:200px;
-  font-size: 30;
-  font-style: bold;
-  align-items: center;
-}

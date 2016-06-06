@@ -1,7 +1,14 @@
 body{
-  background-image: url(https://static.pexels.com/photos/304/city-houses-village-buildings.jpg);
+  background-image: https://static.pexels.com/photos/304/city-houses-village-buildings.jpg;
   background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
+}
+.navitem{
+  display: inline;
+  margin-left:200px;
+  font-size: 20;
+  font-style: bold;
+  align-items: center;
 }

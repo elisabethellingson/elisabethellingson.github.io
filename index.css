@@ -1,11 +1,11 @@
-body{
+header{
   background-image: https://static.pexels.com/photos/304/city-houses-village-buildings.jpg;
   background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
 }
-header .navitem{
+  .navitem{
   display: inline;
   margin-left:200px;
   font-size: 20;

@@ -9,7 +9,7 @@ header{
   font-size: 26;
 }
 h1{
-  margin-left:80x;
+  margin-left:80px;
 }
 li{
   float: left;
@@ -23,6 +23,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 
 
 

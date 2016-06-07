@@ -5,14 +5,14 @@ body{
   -webkit-background-size: cover;
 }
 header{
-  font-family: inherit; 
+  font-family: inherit;
   font-size: 26;
 }
 h1{
-  margin-left:10px;
+  margin-left:25px;
 }
 li{
-  float: left; 
+  float: left;
   list-style: none;
   background-color: white;
 }

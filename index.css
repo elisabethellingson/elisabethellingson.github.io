@@ -14,12 +14,14 @@ header{
   	line-height: 26.4px;
     color: white;
 }
+h1{
+  margin-left:100px;
+  margin-top: 150 px;
+}
 li{
   float: left;
   list-style: none;
   background-color: #0092B2;
-  margin-left:75px;
-  margin-top: 300px;
 }
 li a {
   display: block;

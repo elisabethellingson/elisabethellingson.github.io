@@ -11,6 +11,7 @@ header{
 li{
   float: left; 
   list-style: none;
+  background-color: white;
 }
 li a {
     display: block;
@@ -18,5 +19,4 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: white;
 }

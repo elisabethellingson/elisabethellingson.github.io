@@ -32,7 +32,11 @@ p{
   margin-top: 150px;
   margin-left: 50px;
   color: white;
-  font-size: 20;
-  font-family: serif;
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
 }
 

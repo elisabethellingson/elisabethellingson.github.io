@@ -4,6 +4,7 @@ body{
   -o-background-size: cover;
   -webkit-background-size: cover;
   float: left;
+  margin-top: 10px;
 }
 header{
   font-family: inherit;
@@ -24,6 +25,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 
 
 

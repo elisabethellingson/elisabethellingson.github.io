@@ -12,11 +12,11 @@ header{
   	font-variant: normal;
   	font-weight: 500;
   	line-height: 26.4px;
-    font-color: white;
 }
 h1{
   margin-left:30px;
   margin-top: 30 px;
+  font-color: white;
 }
 li{
   float: left;

@@ -3,6 +3,7 @@ body{
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
+  float: left;
 }
 header{
   font-family: inherit;

@@ -12,6 +12,7 @@ header{
   	font-variant: normal;
   	font-weight: 500;
   	line-height: 26.4px;
+    font-color: white;
 }
 h1{
   margin-left:30px;
@@ -20,17 +21,17 @@ h1{
 li{
   float: left;
   list-style: none;
-  background-color: 0092B2;
+  background-color: #0092B2;
 }
 li a {
   display: block;
-  color: brown;
+  color: B06253;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 li a:hover {
-    background-color: #111;
+    background-color: 610F42;
 }
 p{
   margin-top: 150px;
@@ -43,4 +44,3 @@ p{
   font-weight: 500;
   line-height: 26.4px;
 }
-

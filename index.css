@@ -18,12 +18,12 @@ li{
   background-color: white;
 }
 li a {
-    display: block;
-    color: brown;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: brown;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 p{
-  padding-top: 50px;
+  margin-top: 50px;
 }

@@ -29,9 +29,10 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  text-shadow: 2px 2px #ff0000;
 }
 li a:hover {
-    background-color: 610F42;
+    background-color: 087400;
 }
 p{
   margin-top: 150px;
@@ -44,4 +45,3 @@ p{
   font-weight: 500;
   line-height: 26.4px;
 }
-

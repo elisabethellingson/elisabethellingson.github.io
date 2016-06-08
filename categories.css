@@ -1,0 +1,51 @@
+img {
+    width: 100%;
+    height: auto;
+}
+body{
+  background-image: url(https://static.pexels.com/photos/26419/pexels-photo-26419-large.jpg); background-repeat: no-repeat; background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  float: left;
+}
+header{
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+  	font-size: 24px;
+  	font-style: normal;
+  	font-variant: normal;
+  	font-weight: 500;
+  	line-height: 26.4px;
+    color: white;
+}
+h1{
+  margin-left:60px;
+  margin-top: 30px;
+}
+li{
+  float: left;
+  list-style: none;
+  background-color: #0092B2;
+}
+li a {
+  display: block;
+  color: 56699E;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-shadow: 2px 2px #003D4A;
+}
+li a:hover {
+    background-color: 164C5E;
+}
+p{
+  margin-top: 150px;
+  margin-left: 50px;
+  color: 2E2C5C;
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}

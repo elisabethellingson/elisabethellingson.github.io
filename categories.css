@@ -19,12 +19,12 @@ header{
     color: white;
 }
 h1{
-  margin-left:60px;
+  margin-left:1cm;
   margin-top: 30px;
 }
 h2{
   color: gray;
-  margin-left:60px;
+  margin-left:1cm;
   margin-top: 50px;
   padding-top: 100px;
   font-size: 25px;
@@ -47,7 +47,7 @@ li a:hover {
 }
 p{
   margin-top: 20px;
-  margin-left: 60px;
+  margin-left: 1cm;
   color: 2E2C5C;
   font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
   font-size: 18px;

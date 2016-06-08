@@ -1,9 +1,5 @@
-img {
-    width: 100%;
-    height: auto;
-}
 body{
-  background-image: url(https://static.pexels.com/photos/26419/pexels-photo-26419-large.jpg); background-repeat: no-repeat; background-size: cover;
+  background-image: url(https://static.pexels.com/photos/34020/pexels-photo-large.jpg); background-repeat: no-repeat; background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -19,8 +15,8 @@ header{
     color: white;
 }
 h1{
-  margin-left:60px;
-  margin-top: 30px;
+  margin-left:1cm;
+  margin-top: 30 px;
 }
 li{
   float: left;
@@ -33,15 +29,15 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  text-shadow: 2px 2px #003D4A;
+  text-shadow: 2px 2px #000000;
 }
 li a:hover {
     background-color: 164C5E;
 }
 p{
   margin-top: 150px;
-  margin-left: 50px;
-  color: 2E2C5C;
+  margin-left: 1cm;
+  color: white;
   font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
   font-size: 18px;
   font-style: normal;

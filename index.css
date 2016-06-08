@@ -1,3 +1,7 @@
+img {
+    width: 100%;
+    height: auto;
+}
 body{
   background-image: url(https://static.pexels.com/photos/26419/pexels-photo-26419-large.jpg); background-repeat: no-repeat; background-size: cover;
   -moz-background-size: cover;

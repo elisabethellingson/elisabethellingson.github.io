@@ -26,6 +26,7 @@ h2{
   color: gray;
   margin-left:60px;
   margin-top: 30px;
+  font-size: 20px;
 }
 li{
   float: left;
@@ -44,7 +45,7 @@ li a:hover {
     background-color: 164C5E;
 }
 p{
-  margin-top: 150px;
+  margin-top: 20px;
   margin-left: 50px;
   color: 2E2C5C;
   font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
